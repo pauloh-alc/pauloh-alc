@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi :v:
+
+- My name is Paulo Henrique Diniz de Lima Alencar.
+
+- :computer: I'm a Computer Science Student. :mag:
+- 🌱 I’m currently learning Python. :snake:
+
