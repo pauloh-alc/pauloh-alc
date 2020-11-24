@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **pauloh-alc/pauloh-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi :v:
+### Hi :v: 
 
 - My name is Paulo Henrique Diniz de Lima Alencar.
 
